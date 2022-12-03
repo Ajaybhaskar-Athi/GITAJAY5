@@ -4,6 +4,6 @@ def factnum(n):
     for i in range(1,n+1):
         mul=mul*i
     print(mul)
-a=int(input("enter a number"))
-factnum(a)
+c=int(input("enter a number"))
+factnum(c)
 
